@@ -1,0 +1,44 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    height: 100%;
+  }
+  
+  .top {
+    text-align: center;
+    height: 25%;
+    background-color: blue;
+    line-height: 25vh;
+  }
+  
+  .middle {
+    height: 50%;
+    line-height: 50vh;
+  }
+  
+  .bottom {
+    text-align: center;
+    height: 25%;
+    background-color: blue;
+    line-height: 25vh;
+  }
+  
+  .left {
+    background-color: violet;
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    float: left;
+  }
+  
+  .right {
+    background-color: rgb(0, 225, 255);
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    float: left;
+  }
